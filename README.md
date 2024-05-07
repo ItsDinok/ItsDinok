@@ -2,7 +2,6 @@
 - 👀 I’m interested in cyber security and how that relates to robotics
 - 🌱 I’m currently completing a computer science research masters
 - 💞️ I’m looking to collaborate on any useful projects!
-- 📫 How to reach me: Dinok#1630 on discord
 
 <!---
 ItsDinok/ItsDinok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
