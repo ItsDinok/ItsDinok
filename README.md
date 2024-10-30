@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsDinok
-- 👀 I’m interested in cyber security and how that relates to robotics
+- 👀 I’m interested in the overlap between machine learning and cyber security
 - 🌱 I’m currently completing a computer science research masters
 - 💞️ I’m looking to collaborate on any useful projects!
 
